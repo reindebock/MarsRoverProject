@@ -1,6 +1,9 @@
 # Ignore generated files
 *~
+*.class
 *.log
+*.war
+*.ear
 *.iml
 *.ipr
 *.iws
