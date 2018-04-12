@@ -1,0 +1,32 @@
+# Ignore generated files
+*~
+*.log
+*.iml
+*.ipr
+*.iws
+*_IS_UNDEFINED
+
+# Ignore hidden files, but not .gitignore
+.*
+.idea
+!.gitignore
+
+# Ignore large files to prevent accidental additions
+*.bin
+*.bmp
+*.exe
+*.gif
+*.jar
+*.jpg
+*.png
+*.psd
+*.tar*
+*.zip
+
+# Ignore output folders
+bin
+build
+logs
+out
+tmp
+
